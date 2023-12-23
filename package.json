@@ -13,11 +13,14 @@
     "@ant-design/icons": "^5.2.6",
     "antd": "^5.11.5",
     "axios": "^1.6.2",
+    "chart.js": "^4.4.1",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.20.0",
     "sass": "^1.69.5",
-    "scss": "^0.2.4"
+    "scss": "^0.2.4",
+    "json-server": "^0.17.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
